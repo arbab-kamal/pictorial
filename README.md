@@ -2,9 +2,6 @@
 
 Transform your photos with the power of AI! Pictoria AI is your ultimate solution for creating/generating professional AI-generated photos, similar to the popular PhotoAI platform. Perfect for LinkedIn headshots, Instagram content, dating profile pictures, and professional portraits. Train AI model on your personal images and generate stunning, high-quality AI-generated photos within minutes.
 
-[![Watch Tutorial Video](https://img.shields.io/badge/Watch-Tutorial%20Video-red)](https://www.youtube.com/watch?v=7AQNeii5K7E)
-[![GitHub Stars](https://img.shields.io/github/stars/codebucks27/Pictoria-AI-Starter-Code?style=social)](https://github.com/codebucks27/Pictoria-AI-Starter-Code)
-
 🎯 For customised solutions or deployment please contact: https://tally.so/r/wdlj0N
 
 > NOTE: This is a final version of the project. Before you make it live, please make sure to test it thoroughly and make any necessary adjustments.
@@ -130,13 +127,6 @@ Visit `http://localhost:3000` to see your app.
 - **Pro**: 2 trained models/month, 300 images/month
 - **Enterprise**: 5 trained models/month, unlimited images
 
-## 📝 License
-
-Please check the LICENSE file for details.
-
-## 🎥 Tutorial Video
-
-For a complete setup walkthrough, check out our [video tutorial](https://youtu.be/7AQNeii5K7E).
 
 ## 🌟 Show Your Support
 
